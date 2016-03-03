@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.16)  2 MAR 2016 14:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.16)  3 MAR 2016 11:57
 entering extended mode
 **./EcoAudit.tex
 (EcoAudit.tex
@@ -451,13 +451,26 @@ Package pdftex.def Info: pics/CompFootEny.png used on input line 43.
  [1
 
 {C:/Users/Lamn/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./pics/AluFo
-otEny.png>] [2 <./pics/CompFootEny.png>]
+otEny.png>]
+<pics/comp2020.png, id=13, 364.36125pt x 286.82156pt>
+File: pics/comp2020.png Graphic file (type png)
+ <use pics/comp2020.png>
+Package pdftex.def Info: pics/comp2020.png used on input line 57.
+(pdftex.def)             Requested size: 218.61842pt x 172.09425pt.
+
+<pics/comp1320.png, id=14, 364.36125pt x 286.82156pt>
+File: pics/comp1320.png Graphic file (type png)
+ <use pics/comp1320.png>
+Package pdftex.def Info: pics/comp1320.png used on input line 67.
+(pdftex.def)             Requested size: 182.18018pt x 143.41042pt.
+
+[2 <./pics/CompFootEny.png> <./pics/comp2020.png>] [3 <./pics/comp1320.png>]
 (EcoAudit.aux) ) 
 Here is how much of TeX's memory you used:
- 2937 strings out of 493634
- 34859 string characters out of 3141316
- 95716 words of memory out of 3000000
- 6285 multiletter control sequences out of 15000+200000
+ 2949 strings out of 493634
+ 35085 string characters out of 3141316
+ 95732 words of memory out of 3000000
+ 6295 multiletter control sequences out of 15000+200000
  14733 words of font info for 48 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  27i,6n,26p,240b,290s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -469,9 +482,9 @@ s\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\Lamn\AppData\Local\MiKTeX
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on EcoAudit.pdf (2 pages, 83180 bytes).
+Output written on EcoAudit.pdf (3 pages, 98943 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
+ 148 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
